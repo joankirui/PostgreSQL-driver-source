@@ -5,7 +5,7 @@
     user="postgres",
     password="jk3191"
 2.Ensure that PostgreSQL is installed and running on your machine.
-3.Install 'psycopg2' using this command  'pip install psycopg2'
+3.Install 'psycopg2' using this command 'pip install psycopg2'
   library which is required for connecting to the PostgreSQL 
   database and executing SQL queries.
 4.Execute the driver script, either through the terminal or
